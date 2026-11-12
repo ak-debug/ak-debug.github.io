@@ -10,3 +10,4 @@ Thumbs.db
 # Local preview / tooling artifacts
 .preview-*.png
 .playwright-mcp/
+.sources/
