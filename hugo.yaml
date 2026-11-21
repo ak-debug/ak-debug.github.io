@@ -16,6 +16,7 @@ params:
   env: production
   title: Akshit Kathuria
   description: "Security writeups, CTF solutions, and notes on offensive security and malware analysis."
+  images: ["social-preview.png"]
   keywords: [security, infosec, CTF, writeups, malware analysis, web security]
   author: Akshit Kathuria
   defaultTheme: auto
